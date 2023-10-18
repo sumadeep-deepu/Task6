@@ -1,0 +1,39 @@
+Polymorphism:
+Polymorphism is the ability of an object to take on  multiple forms
+Types:
+1.	Comple-time polymorphism
+2.	Run-time polymorphism
+1.complie-time polymorphism:
+This type polymorphism can be achieved at compile time .it is also called as static polymorphism and early binding.
+It is achieved through method overloading.
+
+2.Run-time polymorphism:
+This type is achieved at run time or the execution time.it is also called as dynamic polymorphism.
+It is achieved through method over riding.
+
+
+Life cycle of an object in java:
+Creation:
+The first stage is the creating of object. This is done by using key word called ‘new’.
+Memory is allocated for the object, and its constructor is called for initialization.
+Usage:
+The object is used to perform tasks, access data, or call methods with in the program.
+
+Destruction (Garbage Collection):
+When no references to the object exist, it becomes unreachable. The Java garbage collector identifies unreachable objects and reclaims their memory. This process ensures efficient memory management by removing objects that are no longer needed.
+
+Fundamentals of any object oriented programming:
+1.	Class and objects
+2.	Abstraction
+3.	Encapsulation
+4.	Inheritance
+5.	Polymorphism
+abstraction:
+The process of hiding implementation details and showing functionality to the user.
+Encapsulation :
+The process of wrapping of data and methods into single unit into class is called encapsulation.
+Inheritance:
+ The process of acquiring properties from parent class to child class is called inheritance.
+
+
+
